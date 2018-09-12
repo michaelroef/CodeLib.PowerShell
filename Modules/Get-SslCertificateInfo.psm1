@@ -2,7 +2,7 @@
 # Created at: 2018-09-12
 # Author: Michael Roef (microef)
 # Contact: hello@michaelroef.me
-# Website: http://michaelroef.me
+# Website: https://michaelroef.me
 # -------------------------------------------------------- #
 # Get-SslCertificateInfo
 # Get SSL certificate info for given domain (web url)
